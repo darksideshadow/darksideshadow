@@ -1,5 +1,6 @@
-# Hello.
+## Hello,
 
-### Cat picture:
+I'm a CS undergraduate at SDSU. I'm interested in game development, computer networks, and cybersecurity. 
 
-![alt text](https://3.bp.blogspot.com/-8sZkKWu98rE/UiD3w_ilIuI/AAAAAAAAAUc/ywb03PKeRtA/s1600/cat-funny.jpg)
+This is where I display my projects. Feel free to take a look around!
+---
