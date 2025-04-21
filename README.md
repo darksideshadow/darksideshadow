@@ -1,4 +1,4 @@
-## Hello,
+## Hello
 
 I'm a CS undergraduate at SDSU. I'm interested in game development, computer networks, and cybersecurity. 
 
