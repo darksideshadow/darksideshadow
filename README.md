@@ -1,7 +1,9 @@
-## Hello
+## Hello, I'm Bryle!
 
-I'm an undergraduate studying computer science at SDSU. I'm interested in game development, computer networks, and cybersecurity. 
+I'm a fourth-year undergraduate student pursuing a B.S in Computer Science and a B.A in Philosophy at San Diego State University.  
 
-This is where I display my projects. Feel free to take a look around!  
+I'm currently interested in software development, computer systems, and game development. 
+
+This is where I display my projects. Feel free to take a look around!
 
 ---
