@@ -1,4 +1,4 @@
-## Hi, I'm Bryle!
+## 🎮 Hi, I'm Bryle!
 
 I'm a CS and Philosophy grad from SDSU interested in systems, backend, and game development. 
 
